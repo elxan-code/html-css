@@ -1,0 +1,29 @@
+h3 {text-align: center;}
+#salam{position:absolute;
+left: 50%;
+top: 35%;
+transform: translate(-50%,-50%);
+max-width: 100%;
+background-color: cadetblue;
+font-size: large;
+
+}
+#salam1 {
+    background-color: rgb(74, 74, 238);
+    color: white;
+    font-size: 20px;
+}
+#fname {
+    font-size: 17px;
+}
+#lname{
+    font-size: 17px;
+}
+#Adres{font-size: 17px;}
+#City{font-size: 17px;}
+#Country{font-size: 17px;}
+#Email{font-size: 17px;}
+#Phone{font-size: 17px;}
+#Company{font-size: 17px;}
+#Data{font-size: 17px;}
+#zip{font-size: 17px;}

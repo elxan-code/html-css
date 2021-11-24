@@ -1,0 +1,60 @@
+#Email{
+  margin-top: 10px;
+  
+  margin-left: 100px;
+}
+#UserName{
+    margin-top: 10px;
+  
+    margin-left: 65px;
+  }
+#Password{ margin-top: 10px;
+  
+    margin-left: 75px;}
+#Phone{
+    margin-top: 10px;
+  
+    margin-left: 96px
+}
+#Street{
+    margin-top: 10px;
+  
+    margin-left: 120px}
+    #City{
+        margin-top: 10px;
+  
+        margin-left: 110px
+
+    }
+    #State{
+        margin-top: 10px;
+  
+        margin-left: 95px
+    }
+
+    #Zipcode{ margin-top: 10px;
+  
+        margin-left: 85px}
+        #Country{
+            margin-top: 10px;
+  
+            margin-left: 85px}
+#salam 
+{ margin-top: 10px;
+  
+margin-left: 25px}
+#salam1 {
+    margin-top: 10px;
+  
+margin-left: 100px
+}
+#salam2{
+    margin-top: 10px;
+  
+margin-left: 80px
+}
+#salam123{
+    background-color: rgb(28, 167, 209);
+    margin-left: 100px;
+    font-size: 20px;
+}
